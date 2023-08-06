@@ -1,0 +1,25 @@
+{
+    "java.project.sourcePaths": [
+        "pila de ejecucion",
+        ""
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Library/Frameworks/javafx-sdk-17.0.8/legal/javafx.base/**/*.jar",
+        "/Library/Frameworks/javafx-sdk-17.0.8/legal/javafx.controls/**/*.jar",
+        "/Library/Frameworks/javafx-sdk-17.0.8/legal/javafx.fxml/**/*.jar",
+        "/Library/Frameworks/javafx-sdk-17.0.8/legal/javafx.graphics/**/*.jar",
+        "/Library/Frameworks/javafx-sdk-17.0.8/legal/javafx.media/**/*.jar",
+        "/Library/Frameworks/javafx-sdk-17.0.8/legal/javafx.swing/**/*.jar",
+        "/Library/Frameworks/javafx-sdk-17.0.8/legal/javafx.web/**/*.jar",
+        "/Library/Frameworks/javafx-sdk-17.0.8/lib/javafx-swt.jar",
+        "/Library/Frameworks/javafx-sdk-17.0.8/lib/javafx.base.jar",
+        "/Library/Frameworks/javafx-sdk-17.0.8/lib/javafx.controls.jar",
+        "/Library/Frameworks/javafx-sdk-17.0.8/lib/javafx.fxml.jar",
+        "/Library/Frameworks/javafx-sdk-17.0.8/lib/javafx.graphics.jar",
+        "/Library/Frameworks/javafx-sdk-17.0.8/lib/javafx.media.jar",
+        "/Library/Frameworks/javafx-sdk-17.0.8/lib/javafx.swing.jar",
+        "/Library/Frameworks/javafx-sdk-17.0.8/lib/javafx.web.jar"
+    ],
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m -Xlog:disable"
+}

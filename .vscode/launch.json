@@ -1,0 +1,231 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TestIterator",
+            "request": "launch",
+            "mainClass": "TestVariados.TestIterator",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "TestLambdas",
+            "request": "launch",
+            "mainClass": "mx.com.ByteBankTest.TestLambdas",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "TestOrdenamiento",
+            "request": "launch",
+            "mainClass": "TestVariados.TestOrdenamiento",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "TestDesafioBuzz",
+            "request": "launch",
+            "mainClass": "TestVariados.TestDesafioBuzz",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "DesafioFizzBuzz",
+            "request": "launch",
+            "mainClass": "TestVariados.DesafioFizzBuzz",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "TestOrdenarLista",
+            "request": "launch",
+            "mainClass": "mx.com.ByteBankTest.TestOrdenarLista",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "TestWrappers",
+            "request": "launch",
+            "mainClass": "mx.com.ByteBankTest.TestWrappers",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "TestRepasoArray",
+            "request": "launch",
+            "mainClass": "mx.com.ByteBankTest.TestRepasoArray",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "TestArrayList",
+            "request": "launch",
+            "mainClass": "mx.com.ByteBankTest.TestArrayList",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "TestConexion",
+            "request": "launch",
+            "mainClass": "Excepciones.TestConexion",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "TestReferenciasDesafio",
+            "request": "launch",
+            "mainClass": "TestVariados.TestReferenciasDesafio",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "TestGuardaCuentas",
+            "request": "launch",
+            "mainClass": "mx.com.ByteBankTest.TestGuardaCuentas",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "TestArrayDePrimitivos",
+            "request": "launch",
+            "mainClass": "mx.com.ByteBankTest.TestArrayDePrimitivos",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "Testmain",
+            "request": "launch",
+            "mainClass": "mx.com.ByteBankTest.Testmain",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "TestObjet",
+            "request": "launch",
+            "mainClass": "mx.com.ByteBankTest.TestObjet",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "TestCuenta",
+            "request": "launch",
+            "mainClass": "mx.com.ByteBankTest.TestCuenta",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "TestFuncionario",
+            "request": "launch",
+            "mainClass": "mx.com.ByteBankTest.TestFuncionario",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "TestCuentaExcepcion",
+            "request": "launch",
+            "mainClass": "mx.com.ByteBankTest.TestCuentaExcepcion",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "TestControlBonificacion",
+            "request": "launch",
+            "mainClass": "mx.com.ByteBankTest.TestControlBonificacion",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "TestReferencias",
+            "request": "launch",
+            "mainClass": "mx.com.ByteBankTest.TestReferencias",
+            "projectName": "Java Polimorfismo_1116ce1a"
+        },
+        {
+            "type": "java",
+            "name": "TestSistemaInterno",
+            "request": "launch",
+            "mainClass": "ByteBankTest.TestSistemaInterno",
+            "projectName": "Java Polimorfismo Modulo 3_188a986f"
+        },
+        {
+            "type": "java",
+            "name": "TestCuenta",
+            "request": "launch",
+            "mainClass": "ByteBankTest.TestCuenta",
+            "projectName": "Java Polimorfismo Modulo 3_188a986f"
+        },
+        {
+            "type": "java",
+            "name": "TestGerente",
+            "request": "launch",
+            "mainClass": "ByteBankTest.TestGerente",
+            "projectName": "Java Polimorfismo Modulo 3_188a986f"
+        },
+        {
+            "type": "java",
+            "name": "TestConexion",
+            "request": "launch",
+            "mainClass": "Excepciones.TestConexion",
+            "projectName": "Java Polimorfismo Modulo 3_188a986f"
+        },
+        {
+            "type": "java",
+            "name": "TestCuentaExcepcion",
+            "request": "launch",
+            "mainClass": "ByteBankbyEmmanuel.TestCuentaExcepcion",
+            "projectName": "Java Polimorfismo Modulo 3_188a986f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "TestControlBonificacion",
+            "request": "launch",
+            "mainClass": "ByteBankbyEmmanuel.TestControlBonificacion",
+            "projectName": "Java Polimorfismo Modulo 3_188a986f"
+        },
+        {
+            "type": "java",
+            "name": "TestCuenta",
+            "request": "launch",
+            "mainClass": "ByteBankbyEmmanuel.TestCuenta",
+            "projectName": "Java Polimorfismo Modulo 3_188a986f"
+        },
+        {
+            "type": "java",
+            "name": "TestFuncionario",
+            "request": "launch",
+            "mainClass": "ByteBankbyEmmanuel.TestFuncionario",
+            "projectName": "Java Polimorfismo Modulo 3_188a986f"
+        },
+        {
+            "type": "java",
+            "name": "TestGerente",
+            "request": "launch",
+            "mainClass": "ByteBankbyEmmanuel.TestGerente",
+            "projectName": "Java Polimorfismo Modulo 3_188a986f"
+        },
+        {
+            "type": "java",
+            "name": "TestReferencias",
+            "request": "launch",
+            "mainClass": "ByteBankbyEmmanuel.TestReferencias",
+            "projectName": "Java Polimorfismo Modulo 3_188a986f"
+        },
+        {
+            "type": "java",
+            "name": "TestSistemaInterno",
+            "request": "launch",
+            "mainClass": "ByteBankbyEmmanuel.TestSistemaInterno",
+            "projectName": "Java Polimorfismo Modulo 3_188a986f"
+        }
+    ]
+}
